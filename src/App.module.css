@@ -1,0 +1,21 @@
+.body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.MainContainer{
+  padding: 4% 12%;
+  margin-top: 32px;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center ;
+}
+
+.ProductPre{
+  width: 50%;
+  position: relative;
+}
+
+.ProductDetails {
+  width: 50%;
+}
